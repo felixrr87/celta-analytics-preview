@@ -1,7 +1,13 @@
-Análisis Data-Driven del Real Club Celta de Vigo (Preview)
-Bienvenido al preview del proyecto de análisis avanzado de datos de jugadores del Real Club Celta de Vigo.
+# Análisis Data-Driven del Real Club Celta de Vigo (Preview)
+
+Bienvenido al **preview** del proyecto de análisis avanzado de datos de jugadores del Real Club Celta de Vigo.
 Este repositorio muestra una versión resumida del informe estratégico y la estructura de proyecto profesional, diseñada para demostrar capacidad analítica, organización y enfoque en datos.
-Contenido del repositorio
+
+---
+
+## Contenido del repositorio
+
+```text
 /celta-analytics-preview
 │
 ├── README.md
@@ -14,29 +20,48 @@ Contenido del repositorio
 ├── data/
 │   └── README.md               # Explicación de que no se incluyen datos reales
 └── assets/                     # Gráficos opcionales o logo minimalista
+```
 
-Resumen del proyecto
-Objetivo: Analizar métricas creativas, defensivas y de posesión de la plantilla del Celta de Vigo.
-Alcance del preview:
-PDF de 4 páginas con hallazgos clave y conclusiones estratégicas.
-Visualizaciones ilustrativas basadas en datos reales, que muestran tendencias sin exponer información confidencial.
+---
 
-Metodología:
-Integración de múltiples datasets (ficticios en este preview).
-Normalización de métricas y análisis comparativo entre jugadores jóvenes y veteranos.
-Identificación de patrones estratégicos y perfiles clave.
-Nota: Este repositorio NO incluye los datasets reales ni el código completo, para proteger la confidencialidad del proyecto.
+## Resumen del proyecto
 
-Cómo utilizar el proyecto
-Descargar el PDF de preview/preview_celta.pdf para revisar los hallazgos resumidos.
-Explorar la estructura de carpetas para ver la organización de un proyecto profesional de análisis de datos.
+* **Objetivo:** Analizar métricas creativas, defensivas y de posesión de la plantilla del Celta de Vigo.
+* **Alcance del preview:**
 
-Leer los notebooks de metodología para entender el enfoque analítico.
+  * PDF de 4 páginas con hallazgos clave y conclusiones estratégicas.
+  * Visualizaciones ilustrativas basadas en datos ficticios, que muestran tendencias sin exponer información confidencial.
+* **Metodología:**
 
-Llamada a la acción
-Si quieres acceder al informe completo, obtener análisis personalizados de otro equipo, o encargar un dashboard/data pipeline similar, contacta por mensaje directo.
-Este proyecto sirve como portfolio de habilidades y demuestra la capacidad de aplicar análisis de datos avanzados en entornos deportivos reales.
+  * Integración de múltiples datasets (ficticios en este preview).
+  * Normalización de métricas y análisis comparativo entre jugadores jóvenes y veteranos.
+  * Identificación de patrones estratégicos y perfiles clave.
 
-Contacto
-[zaitut87frr@gmail.com]
-Mensaje directo a través de GitHub o plataformas profesionales.
+> **Nota:** Este repositorio NO incluye los datasets reales ni el código completo, para proteger la confidencialidad del proyecto.
+
+---
+
+## Cómo utilizar el proyecto
+
+1. Descargar el PDF de `preview/preview_celta.pdf` para revisar los hallazgos resumidos.
+2. Explorar la estructura de carpetas para ver la organización de un proyecto profesional de análisis de datos.
+3. Leer los notebooks de metodología para entender el enfoque analítico.
+
+---
+
+## Llamada a la acción
+
+Si quieres acceder al **informe completo**, obtener análisis personalizados de otro equipo, o encargar un dashboard/data pipeline similar, **contacta por mensaje directo**.
+
+Este proyecto sirve como **portfolio de habilidades** y demuestra la capacidad de aplicar análisis de datos avanzados en entornos deportivos reales.
+
+---
+
+## Contacto
+
+* Correo: [zaitut87frr@gmail.com](mailto:zaitut87frr@gmail.com)
+* Mensaje directo a través de GitHub o plataformas profesionales.
+
+---
+
+💡 Este README está diseñado para que tu repositorio **atraiga atención y clientes** sin necesidad de mostrar código sensible ni datos reales.
