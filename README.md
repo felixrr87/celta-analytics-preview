@@ -16,7 +16,7 @@ Este repositorio muestra una versión resumida del informe estratégico y la est
 ├── src/
 │   └── example_pipeline.py     # Ejemplo de pipeline (sin código real)
 ├── notebooks/
-│   └── methodology_template.ipynb  # Explicación de metodología
+│   └── notebooks/methodology_example.ipynb # Explicación de metodología
 ├── data/
 │   └── README.md               # Explicación de que no se incluyen datos reales
 └── assets/                     # Gráficos opcionales o logo minimalista
